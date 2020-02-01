@@ -21,6 +21,5 @@ const titleCased = () => {
     }
     return splitstr.join(' ');
   });
-  
 }
 
